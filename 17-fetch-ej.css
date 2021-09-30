@@ -1,0 +1,14 @@
+*{
+    background-color: white;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 600;
+    height: 900;
+
+}
+.card{
+    display: flex;
+    margin: 15px;
+}
