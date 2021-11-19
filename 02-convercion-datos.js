@@ -3,7 +3,7 @@ const nombre = prommpt('cual es tu nombre');
 
 
 // convertir sring a number   '`'
-const edad = parseInt(prompt)('cual es tu edad?')
+const edad = parseInt(prompt('cual es tu edad?'));
 
 const edad = prompt('cual es tu edad ');
 console.log(typeof(nombre));
