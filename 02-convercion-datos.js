@@ -1,4 +1,5 @@
-const nombre = prommpt('cual es tu nombre');
+//cinververcion de datos 
+const nombre = prompt('cual es tu nombre');
 
 
 
