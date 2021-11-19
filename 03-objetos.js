@@ -6,6 +6,8 @@ const persona = {
     correo:'julian@sanchez',
 };
 
+document.write(persona.nombre);
+
 // los objetos es una forma de struccturar datos 
 // clave - valor
 
@@ -27,5 +29,5 @@ const articulos = [
     }
 ];
 
+document.write(articulos[1].nombre);
 
-document.write(persona.nombre)
